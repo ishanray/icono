@@ -6,6 +6,10 @@
     <br>
 </h1>
 
+<br>
+<img width="400" src="https://raw.githubusercontent.com/ishanray/icono/master/media/buttons.png" alt="icono">
+<br>
+
 ## Highlights
 
 CSS only beautiful buttons with click actions
